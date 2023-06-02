@@ -3,6 +3,8 @@ This project was started as a way to learn the tools and features of a database 
 
 In this project i explore a Covid dataset with particular attention paid to <b>SQL formatting within a workbench, import tools, and syntax</b>
 
+---
+
 ## The Dataset
 This dataset comes from https://ourworldindata.org/covid-deaths and contains worldwide data from the start of 2020 until today. In this project, I focus specifically on the height of the pandemic and exclude data after the start of 2022
 
