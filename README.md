@@ -1,7 +1,14 @@
 # Data Exploration of Covid data in SQL
 This project was started as a way to learn the tools and features of a database workbench. Up to this point, My SQL and database management experience had been based solely in a MySQL command line client. 
 
-In this project i explore a Covid dataset with particular attention paid to <b>SQL formatting within a workbench, import tools, and syntax</b>
+In this project i explore a Covid dataset with particular attention paid to <b>SQL formatting within a workbench, import tools, and syntax</b><br><br>
+<b>
+Skills Utilized:<br>
+Import Tools<br>
+Syntax<br>
+Aggregate Functions<br>
+Window Functions
+</b>
 
 ---
 
